@@ -69,15 +69,3 @@
     </tr>
   </table>
 </div>
-<!-- DSA / Competitive Programming -->
-<h3 align="center">📊 DSA & Competitive Programming</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://leetcode.com/your-username/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/></a><br>LeetCode</td>
-      <td align="center"><a href="https://codeforces.com/profile/your-username"><img src="https://sta.codeforces.com/s/59576/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="80" height="60"/></a><br>Codeforces</td>
-      <td align="center"><a href="https://www.hackerrank.com/your-username"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="60" height="60"/></a><br>HackerRank</td>
-    </tr>
-  </table>
-</div>
-
